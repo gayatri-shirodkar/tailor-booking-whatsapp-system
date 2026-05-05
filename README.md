@@ -1,7 +1,7 @@
 ## 📸 Preview
 
 ![Homepage](https://raw.githubusercontent.com/gayatri-shirodkar/gayatri-tailors-website/main/tailor1.png)
-![Cart](https://raw.githubusercontent.com/gayatri-shirodkar/gayatri-tailors-website/main/tailor3.png)
+![Cart](https://raw.githubusercontent.com/gayatri-shirodkar/gayatri-tailors-website/main/tailor4.png)
 ![WhatsApp Order](https://raw.githubusercontent.com/gayatri-shirodkar/gayatri-tailors-website/main/tailor2.png)
 # ✂️ Gayatri Tailors - Website
 
