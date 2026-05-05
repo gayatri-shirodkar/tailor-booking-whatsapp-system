@@ -1,8 +1,8 @@
 ## 📸 Preview
 
-![Homepage](https://raw.githubusercontent.com/gayatri-shirodkar/gayatri-tailors-website/main/tailor1.png)
-![Cart](https://raw.githubusercontent.com/gayatri-shirodkar/gayatri-tailors-website/main/tailor4.png)
-![WhatsApp Order](https://raw.githubusercontent.com/gayatri-shirodkar/gayatri-tailors-website/main/tailor2.png)
+![Homepage](https://raw.githubusercontent.com/gayatri-shirodkar/tailor-booking-whatsapp-system/main/tailor1.png)
+![Cart](https://raw.githubusercontent.com/gayatri-shirodkar/tailor-booking-whatsapp-system/main/tailor4.png)
+![WhatsApp Order](https://raw.githubusercontent.com/gayatri-shirodkar/tailor-booking-whatsapp-system/main/tailor2.png)
 # ✂️ Gayatri Tailors - Website
 
 A modern and responsive tailor service website designed for small businesses. This project allows customers to browse tailoring services, add items to a cart, and place orders directly via WhatsApp without requiring any backend.
